@@ -105,3 +105,5 @@ These show how beginners can **mix and match tools**:
 - [Polkadot Wiki](https://wiki.polkadot.network/)  
 - [Polkadot Forum](https://forum.polkadot.network/)  
 - [Polkadot SDK Docs](https://docs.polkadot.com/)
+
+<!-- Auto-update: 2025-10-03T11:13:01.984662 -->
