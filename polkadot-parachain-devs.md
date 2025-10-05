@@ -80,3 +80,5 @@ The Polkadot SDK provides several tools and libraries to facilitate testing at v
 
 - 🧟‍♂️ [**Zombienet**](https://docs.polkadot.com/develop/toolkit/parachains/spawn-chains/zombienet/get-started/) - a robust testing framework designed for Polkadot SDK-based blockchain networks. It enables developers to efficiently deploy and test ephemeral blockchain environments. Check the [Spawn a Basic Chain with Zombienet](https://docs.polkadot.com/tutorials/polkadot-sdk/testing/spawn-basic-chain/) tutorial
 - 🥢 [**Chopsticks**](https://docs.polkadot.com/develop/toolkit/parachains/fork-chains/chopsticks/get-started/) - a versatile tool tailored for developers working on Polkadot SDK-based blockchains. With Chopsticks, you can fork live chains locally, replay blocks to analyze extrinsics, and simulate complex scenarios like XCM interactions all without deploying to a live network. Check the [Fork a Chain with Chopsticks](https://docs.polkadot.com/tutorials/polkadot-sdk/testing/fork-live-chains/) tutorial
+
+<!-- Auto-update: 2025-10-05T17:10:59.882955 -->
